@@ -3,7 +3,7 @@ function App() {
  
 
   return (
-    <h1> Hello World React with Vite | VN </h1>
+    <h1> Hello World React with Vite | Vatsal Nanda </h1>
   )
 }
 
